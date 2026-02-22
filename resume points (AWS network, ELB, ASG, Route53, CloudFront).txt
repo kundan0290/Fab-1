@@ -1,0 +1,26 @@
+*Designed and implemented secure, scalable Virtual Private Cloud (VPC) architectures to isolate environments using multiple availability zones and subnets (public and private) for optimized resource utilization and network efficiency.
+
+*Configured and managed VPC peering, route tables, and network gateways (NAT, Internet Gateway) to ensure seamless and secure communication between on-premises data centers and AWS resources.
+
+*Set up and managed network access control through custom route tables, network ACLs, and security groups, ensuring secure access to instances and applications by defining inbound/outbound rules.
+
+*Created and optimized VPC subnets for efficient traffic flow, load balancing, and high availability across different AWS regions and availability zones.
+
+*Optimized network performance by implementing Elastic Load Balancers (ELB) within a VPC to distribute traffic across EC2 instances in multiple subnets, ensuring high availability and fault tolerance.
+
+*Configured Application Load Balancers (ALB) to perform advanced routing, such as path-based and host-based routing, ensuring traffic is routed to the appropriate backend services based on URL patterns or domain names.
+
+*Designed and implemented AWS Auto Scaling strategies to dynamically adjust EC2 instance capacity based on demand, optimizing application performance and cost efficiency.
+
+*Configured Auto Scaling Groups (ASG) to ensure high availability of applications across multiple Availability Zones, ensuring seamless scaling of resources based on custom-defined policies and metrics.
+
+*Configured and managed AWS Route 53 for domain registration, DNS routing, and health checking, ensuring high availability and fault tolerance for applications hosted across multiple regions.
+
+*Implemented multi-region failover and DNS-based routing policies, including simple, weighted, failover, geolocation, and latency-based routing, to optimize traffic distribution and reduce latency for global users.
+
+*Integrated Route 53 with AWS Elastic Load Balancers (ALB/NLB) and Auto Scaling Groups to dynamically distribute traffic and ensure scalability and high availability for web applications.
+
+*Integrated Route 53 with AWS Elastic Load Balancers (ALB/NLB) and Auto Scaling Groups to dynamically distribute traffic and ensure scalability and high availability for web applications.
+
+*Implemented HTTPS encryption for web applications by integrating ACM certificates with Application Load Balancers (ALB) and Network Load Balancers (NLB), ensuring secure communication and compliance with security standards.
+
